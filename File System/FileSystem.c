@@ -8,7 +8,7 @@
 #define OS_LINUX
 
 // Set User's Username
-const char USERNAME[] = "Harshvir";
+const char USERNAME[] = "Ishan";
 
 #define FREE 0
 #define DIRLEN 80
