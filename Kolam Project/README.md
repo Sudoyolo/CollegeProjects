@@ -6,6 +6,6 @@ This project presents the simulation of 2 Kolam Arts; Suzhi Kolam and a triangle
 
 The output of the simulated Kolam are as follows:
 
-! [](https://github.com/sudoyolo/CollegeProjects/blob/main/Kolam%20Project/20th%20Iteration%20-%20Suzhi%20Kolam.jpg)
+![](https://github.com/sudoyolo/CollegeProjects/blob/main/Kolam%20Project/20th%20Iteration%20-%20Suzhi%20Kolam.jpg)
 
-! [](https://github.com/sudoyolo/CollegeProjects/blob/main/Kolam%20Project/20th%20Iteration%20-%20Triangle%20Kolam.jpg)
+![](https://github.com/sudoyolo/CollegeProjects/blob/main/Kolam%20Project/20th%20Iteration%20-%20Triangle%20Kolam.jpg)
